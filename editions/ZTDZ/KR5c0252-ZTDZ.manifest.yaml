@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0252/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0252/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太清金闕玉華仙書八極神章三皇內祕文
+  date: '2015-08-29 00:55:02.577096'
+  source:
+    repository: kanripo
+    path: KR5c0252
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0252_000-ZTDZ.yaml, hash: 'sha256:64addf3a1ea3ad6ac7d508562d2b39b008ade110f800b4b1303f1e2c8e531fdb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0252_000-ZTDZ.markers.yaml, hash: 'sha256:eba717e8fb64182fb91bcb410d8174a047a20890f07d85e24ca0f870bc6268bb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0252_SJB_000-180562b
+    span:
+    - body
+    - 0
+    - 15759
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:006f64458f43d7b0e82b8bc56615270abcb93435dd627d04ef4f85f00c882893
